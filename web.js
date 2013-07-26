@@ -1,5 +1,3 @@
-#!/usr/bin/env node
-
 var express = require('express');
 var fs = require('fs');
 var app = express();
